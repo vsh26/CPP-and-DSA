@@ -8,6 +8,8 @@ int main(){
         // --------- INCREASING ------------------------>
         // char, int, long, long long, float, double
 
+    // Calculation in done in higher data type, then it is assigned to the variable where its value may change according to the data type of the variable where the value will be stored
+
     cout << 7/2 << endl;        // 3
     cout << 7/2.0 << endl;      // 3.5
     cout << 'a' + 1 << endl;    // 98
