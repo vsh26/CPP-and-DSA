@@ -17,7 +17,7 @@ int main(){
     cin >> str1;                // input -> World ABCD
     cout << str1 << endl;       // World
     cout << str1.size() << endl;// 5
-    //(Only "World" is read, as cin stops reading after WHITESPACE or NEWLINE)
+    // IMP --> (Only "World" is read, as cin stops reading after WHITESPACE or NEWLINE)
 
     // Concatenation of strings
     cout << str + " " + str1 << endl;   // Hello World
@@ -28,7 +28,7 @@ int main(){
 
     // GETLINE
     string str2;
-    cin.ignore(); // (Always use after cin to move control to new line)
+    cin.ignore(); // IMP --> (Always use after cin to move control to new line)
     getline(cin, str2);         // input -> World     ABCD
     cout << str2 << endl;       // World     ABCD
 
