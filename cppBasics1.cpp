@@ -64,5 +64,30 @@ int main(){
 
     cout << m - n << endl;  // -2
 
+    // ASCII for
+        // A    --> 65
+        // a    --> 97
+        // '0'  --> 48
+    
+    //  ASCII values for characters
+    cout << (int) 'A' << endl;
+    cout << (int) 'a' << endl;
+    cout << (int) '0' << endl;
+
+    // UPPERCASE to lowercase
+    char p;
+    p = 'A' + 32;
+    cout << p << endl;      // a
+
+    // lowercase to UPPERCASE
+    char q;
+    q = 'v' - 32;
+    cout << q << endl;      // V
+
+    // Extracting int from char
+    int r;
+    r = '8' - '0';
+    cout << r << endl;      // 8
+
     return 0;
 }
