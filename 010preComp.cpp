@@ -67,7 +67,7 @@ int main(){
 
 /*
 
-Time Complexity: O(N) + O(T) = 2*O(N) = 2*10^5
+Time Complexity: O(N) + O(T) = O(N)
 Hence code will run in 1 sec
 
 */
