@@ -87,3 +87,26 @@ In hash array,
 xth index will store how many times x has occured
 
 */
+
+/*
+
+For negative numbers,
+
+    1st Way: By using STL
+                -   Maps
+                -   Unordered Maps
+
+    2nd Way: Without using STL
+
+        Exa:    A = [-4, 2, 1, -3, -4, -6]
+
+                add +6 to each element
+
+                A'= [2, 8, 7, 3, 2, 0]
+
+                so hash array will have index from 0 to 8,
+                hsh = [1, 0, 2, 1, 0, 0, 0, 1, 1]
+
+                Count of -4 in A => Count of 2 in A'
+
+*/
