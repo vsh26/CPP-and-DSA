@@ -7,9 +7,10 @@
 ## 📚 Resources
 Here are some of the best resources I studied from: 
 
-1. [Competitive Programming/ DSA Course (till STL)](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-)
+1. [Competitive Programming/ DSA Course](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) (till STL)
 2. [Chai aur C++](https://www.youtube.com/playlist?list=PLu71SKxNbfoCPfgKZS8UE0MDuwiKvL8zi)
-3. [C++ DSA by Apna College (till Recursion)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+3. [C++ DSA by Apna College](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (till Recursion)
+4. [DSA with C++ 1.0 by Chai aur Code](https://courses.chaicode.com/learn/batch/DSA-with-Cpp-1)
 
 ## 🔗 Other useful resources
 - [One Compiler](https://onecompiler.com/cpp)
