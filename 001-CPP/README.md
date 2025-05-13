@@ -39,4 +39,20 @@
   - **Writing our own namespace:**
     ![image](https://github.com/user-attachments/assets/660257dd-b3b5-4867-9fbd-c1c37d133a94)
 
+### Identifiers and Constants
+![image](https://github.com/user-attachments/assets/4f229bc5-0cec-4d87-ab20-176bd5787a74)
 
+<br>
+
+### Type Casting
+![Screenshot from 2025-05-13 19-57-36](https://github.com/user-attachments/assets/34f8d92a-c402-4cde-8093-97cde368d5c2)
+
+<br>
+
+### Operators
+<img width="1287" alt="shape_EiN-ZL43hCNpOSYdPa223 at 25-05-13 20 13 18" src="https://github.com/user-attachments/assets/e850a7c4-96a4-4d2d-bc95-689f32b536cf" />
+
+<br>
+
+### Other Terms
+![image](https://github.com/user-attachments/assets/6bce3b53-0949-4354-9913-590bd9a9db63)
