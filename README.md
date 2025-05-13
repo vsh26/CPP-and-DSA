@@ -1,4 +1,4 @@
-<h1 align="center">C++ Learning Repository</h1>
+<h1 align="center">C++ and DSA Learning Repository</h1>
 
 ## 📂 Structure
 - Each file contains a specific topic or concept.
