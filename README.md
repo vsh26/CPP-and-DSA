@@ -16,6 +16,7 @@ Here are some of the best resources I studied from:
 - [One Compiler](https://onecompiler.com/cpp)
 - [ASCII Table](https://www.asciitable.com/)
 - [Bitwise Calculator](https://tc39.es/ecma262/)
+- [BitwiseCmd](https://bitwisecmd.com/)
 
 ## 📬 Connect with Me  
   
