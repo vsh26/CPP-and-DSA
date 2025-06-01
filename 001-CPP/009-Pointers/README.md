@@ -3,6 +3,19 @@
 
 <br>
 
+### Memory Allocation and Memory Leaks
+![Document_1](https://github.com/user-attachments/assets/f6e91a3a-b920-4618-95c2-06fdc5115b89)
+
+<br>
+
+![Document_2](https://github.com/user-attachments/assets/ebeac838-f076-4fc2-8d49-a263e034dd2c)
+
+<br>
+
+![Document_3](https://github.com/user-attachments/assets/1fdd2bbe-f8ca-4b69-8d8d-16fc7294f360)
+
+<br>
+
 ### Pointers
 ![Document_2](https://github.com/user-attachments/assets/8c53da40-8ce2-47b2-b15d-828831c6eb3c)
 
