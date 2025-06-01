@@ -44,6 +44,11 @@
 
 <br>
 
+### Data Types
+![image](https://github.com/user-attachments/assets/5943e678-3b8a-44d4-b7e3-9e654892ab14)
+
+<br>
+
 ### Type Casting
 ![Screenshot from 2025-05-13 19-57-36](https://github.com/user-attachments/assets/34f8d92a-c402-4cde-8093-97cde368d5c2)
 
