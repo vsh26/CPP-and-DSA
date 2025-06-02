@@ -17,6 +17,11 @@ class Chai{
             // teaName = new string;
             // *teaName = name;
 
+            // teaName is a pointer variable
+            // it is stored in stack memory
+            // new string(name) creates a string object in heap memory, initialzed with any "Tea Name"
+            // teaName holds the address of this string stored in heap
+
             servings = serv;
         }
 
@@ -70,7 +75,8 @@ int main(){
     /*
 
         Why copy constructor is needed?
-        Because there is problem in copying the objects in this way.
+        Because there is problem in copying the objects in this way,
+            as this object has a member with dynamic memory
 
         Let's have a look at output:
 
@@ -114,7 +120,22 @@ int main(){
             This leads to Segmentation Fault.
 
         5. Solution: Write a Deep Copy Constructor
-    */ 
+
+    */
+
+    /* Can't we use static memory with the pointers here?
+
+        No, because when your class has a pointer data member, that pointer must point to valid memory
+            for the entire life of the object. So it is not safe to use static memory.
+    
+            
+        1. Hence, we cannot write, teaName = &name
+            Because, When the constructor finishes, the local variable name goes out of scope.
+            Now teaName points to memory that no longer exists (or is invalid) — a dangling pointer.
+            
+        2. Hence, we cannot simply just write, *teaName = name; instead of using 'new'
+            Because, dereferencing only works after allocating memory (i.e., after initalizing the pointer)
+    */
 
     return 0;
 }
