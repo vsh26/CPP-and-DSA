@@ -9,10 +9,13 @@ Here are some of the best resources I studied from:
 
 1. [Competitive Programming/ DSA Course](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) (till STL)
 2. [Chai aur C++](https://www.youtube.com/playlist?list=PLu71SKxNbfoCPfgKZS8UE0MDuwiKvL8zi)
-3. [C++ DSA by Apna College](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (till Recursion)
-4. [DSA with C++ 1.0 by Chai aur Code](https://courses.chaicode.com/learn/batch/DSA-with-Cpp-1)
+4. [OOPs Tutorial in One Shot](https://www.youtube.com/watch?v=mlIUKyZIUUU)
+3. [C++ DSA by Apna College](https://www.apnacollege.in/course/cpp-dsa) (till Recursion)
+5. [DSA with C++ 1.0 by Chai aur Code](https://courses.chaicode.com/learn/batch/DSA-with-Cpp-1)
 
 ## 🔗 Other useful resources
+- [C++ Language Reference - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170)
+- [Learn C++](https://www.learncpp.com/)
 - [One Compiler](https://onecompiler.com/cpp)
 - [ASCII Table](https://www.asciitable.com/)
 - [Bitwise Calculator](https://tc39.es/ecma262/)
